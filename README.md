@@ -1,5 +1,5 @@
 ### Hello world! 👋
-#####Working hard or hard working?! ✨⚡
+##### Working hard or hard working?! ✨⚡
 
 <!--
 **Criiis/Criiis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
