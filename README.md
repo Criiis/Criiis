@@ -2,7 +2,7 @@
 ##### Working hard or hard working?! ✨⚡
 
 ```javascript
-console.log('hello world!')
+console.log('Is this working?! lol, MUH!')
 ```
 
 <!--
