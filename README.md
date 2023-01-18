@@ -4,7 +4,7 @@
 ```javascript
 console.log('Is this working?! lol, MUH!')
 ```
-##### Some live projects done with ReactJS:
+##### Some live projects done with ReactJS or Vanilla JS:
 - [Hangman game](https://criiis.github.io/hangman-cris/)
 - [To Do Web App](https://criiis.github.io/ToDoWithReact/)
 - [Giphy API Playground](https://criiis.github.io/giphy-project-wtc/)
