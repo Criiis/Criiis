@@ -9,6 +9,7 @@ console.log('Is this working?! lol, MUH!')
 - [Hangman game](https://criiis.github.io/hangman-cris/)
 - [To Do Web App](https://criiis.github.io/ToDoWithReact/)
 - [Giphy API Playground](https://criiis.github.io/giphy-project-wtc/)
+- [Flappy Bird](https://criiis.github.io/flappy-bird-game/)
 
 <!--
 **Criiis/Criiis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
