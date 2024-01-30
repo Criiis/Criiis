@@ -5,6 +5,7 @@
 console.log('Is this working?! lol, MUH!')
 ```
 ##### Some live projects done with ReactJS or Vanilla JS:
+- [Trading UI](https://criiis.github.io/D3-training/)
 - [Ecommerce small shop with redux](http://criiis.github.io/react-ecommerce-project-wtc)
 - [Hangman game](https://criiis.github.io/hangman-cris/)
 - [To Do Web App](https://criiis.github.io/ToDoWithReact/)
